@@ -8,7 +8,8 @@ To study I-V characteristics of Gunn Diode and depth of modulation of modulation
 Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Variableattenuator, Detector mount, Slotted section, VSWR meter.
 
 ## Experimental Setup:
-<img width="880" height="180" alt="image" src="https://github.com/user-attachments/assets/b3db014a-3823-4ece-93c1-62955cad660d" />
+<img width="861" height="208" alt="image" src="https://github.com/user-attachments/assets/e0905821-b811-4876-86ac-575a8d4e59fa" />
+
 
 ## Theory
 
@@ -45,15 +46,19 @@ The difference of both dB reading of VSWR meter gives the modulation depth of PI
 Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.
 
 ## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
-
+<img width="1866" height="843" alt="image" src="https://github.com/user-attachments/assets/38c52b59-fd3f-4fd9-9494-3a75dfb31da8" />
+<img width="973" height="1280" alt="image" src="https://github.com/user-attachments/assets/677a7c43-c6bf-4118-8b58-9e938047fead" />
 ## C.Analysis of Results: (Write your own)
-
-(Include sample calculations/Display/plot/typical graph)
+The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
 
 ## D.Conclusions: (Write your Own)
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation.
+
 
 ## Precautions:
 
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+Hence characteristics of gunn oscillator is successfuly done.
+
